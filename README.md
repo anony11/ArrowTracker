@@ -1,3 +1,6 @@
+#Improved!
+
+
 # ArrowTracker
 
 Arrow Tracker is a functional online leaderboard and score tracker built for Pump it Up XX, but supports older games. It's meant to be an external solution to the removal of the worldwide leaderboard in XX, aiming to recreate many of Prime 2's leaderboard features to the greatest possible extent without access to the game's servers and other data.
